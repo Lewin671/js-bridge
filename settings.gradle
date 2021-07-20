@@ -1,0 +1,3 @@
+rootProject.name = "js-bridge"
+include ':app'
+include ':js-bridge'
